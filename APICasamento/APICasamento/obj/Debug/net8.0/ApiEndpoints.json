@@ -1,5 +1,63 @@
 [
   {
+    "ContainingType": "APICasamento.Controllers.InformacoesController",
+    "Method": "ListarTodasInformacoes",
+    "RelativePath": "api/Informacoes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APICasamento.Controllers.InformacoesController",
+    "Method": "AdicionarInformacao",
+    "RelativePath": "api/Informacoes",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "informacoes",
+        "Type": "APICasamento.Entities.Informacoes",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APICasamento.Controllers.InformacoesController",
+    "Method": "AlteraInformacao",
+    "RelativePath": "api/Informacoes",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "informacoes",
+        "Type": "APICasamento.Entities.Informacoes",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APICasamento.Controllers.InformacoesController",
+    "Method": "ExcluirInformacao",
+    "RelativePath": "api/Informacoes/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "APICasamento.Controllers.PresenteController",
     "Method": "ListarTodosPresentes",
     "RelativePath": "api/Presente",

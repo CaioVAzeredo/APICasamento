@@ -9,6 +9,7 @@ namespace APICasamento.Data.Context
 
         // Defina os DbSets para suas entidades
         public DbSet<Presente> Presente { get; set; } 
+        public DbSet<Informacoes> Informacoes { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {

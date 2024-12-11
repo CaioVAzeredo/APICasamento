@@ -1,14 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\cacal\\Documents\\PROJETOS\\CASAMENTO-MN\\APICasamento\\APICasamento\\",
+  "WorkspaceRootPath": "C:\\Users\\cacal\\Documents\\ESTUDO\\PROJETOS\\CASAMENTO-MN\\APICasamento\\APICasamento\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F7BA31B3-3573-4BD9-957E-603F1460B512}|APICasamento\\APICasamento.csproj|c:\\users\\cacal\\documents\\projetos\\casamento-mn\\apicasamento\\apicasamento\\apicasamento\\controllers\\informacoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7BA31B3-3573-4BD9-957E-603F1460B512}|APICasamento\\APICasamento.csproj|solutionrelative:apicasamento\\controllers\\informacoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F7BA31B3-3573-4BD9-957E-603F1460B512}|APICasamento\\APICasamento.csproj|c:\\users\\cacal\\documents\\estudo\\projetos\\casamento-mn\\apicasamento\\apicasamento\\apicasamento\\services\\implementation\\informacoesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7BA31B3-3573-4BD9-957E-603F1460B512}|APICasamento\\APICasamento.csproj|solutionrelative:apicasamento\\services\\implementation\\informacoesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7BA31B3-3573-4BD9-957E-603F1460B512}|APICasamento\\APICasamento.csproj|c:\\users\\cacal\\documents\\projetos\\casamento-mn\\apicasamento\\apicasamento\\apicasamento\\controllers\\presentecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7BA31B3-3573-4BD9-957E-603F1460B512}|APICasamento\\APICasamento.csproj|solutionrelative:apicasamento\\controllers\\presentecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F7BA31B3-3573-4BD9-957E-603F1460B512}|APICasamento\\APICasamento.csproj|c:\\users\\cacal\\documents\\estudo\\projetos\\casamento-mn\\apicasamento\\apicasamento\\apicasamento\\data\\context\\sqlservercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7BA31B3-3573-4BD9-957E-603F1460B512}|APICasamento\\APICasamento.csproj|solutionrelative:apicasamento\\data\\context\\sqlservercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BA31B3-3573-4BD9-957E-603F1460B512}|APICasamento\\APICasamento.csproj|c:\\users\\cacal\\documents\\estudo\\projetos\\casamento-mn\\apicasamento\\apicasamento\\apicasamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7BA31B3-3573-4BD9-957E-603F1460B512}|APICasamento\\APICasamento.csproj|solutionrelative:apicasamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BA31B3-3573-4BD9-957E-603F1460B512}|APICasamento\\APICasamento.csproj|c:\\users\\cacal\\documents\\estudo\\projetos\\casamento-mn\\apicasamento\\apicasamento\\apicasamento\\entities\\informacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7BA31B3-3573-4BD9-957E-603F1460B512}|APICasamento\\APICasamento.csproj|solutionrelative:apicasamento\\entities\\informacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BA31B3-3573-4BD9-957E-603F1460B512}|APICasamento\\APICasamento.csproj|c:\\users\\cacal\\documents\\estudo\\projetos\\casamento-mn\\apicasamento\\apicasamento\\apicasamento\\entities\\presente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7BA31B3-3573-4BD9-957E-603F1460B512}|APICasamento\\APICasamento.csproj|solutionrelative:apicasamento\\entities\\presente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BA31B3-3573-4BD9-957E-603F1460B512}|APICasamento\\APICasamento.csproj|c:\\users\\cacal\\documents\\estudo\\projetos\\casamento-mn\\apicasamento\\apicasamento\\apicasamento\\services\\interfaces\\iinformacoesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7BA31B3-3573-4BD9-957E-603F1460B512}|APICasamento\\APICasamento.csproj|solutionrelative:apicasamento\\services\\interfaces\\iinformacoesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,33 +39,79 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "InformacoesController.cs",
-              "DocumentMoniker": "C:\\Users\\cacal\\Documents\\PROJETOS\\CASAMENTO-MN\\APICasamento\\APICasamento\\APICasamento\\Controllers\\InformacoesController.cs",
-              "RelativeDocumentMoniker": "APICasamento\\Controllers\\InformacoesController.cs",
-              "ToolTip": "C:\\Users\\cacal\\Documents\\PROJETOS\\CASAMENTO-MN\\APICasamento\\APICasamento\\APICasamento\\Controllers\\InformacoesController.cs",
-              "RelativeToolTip": "APICasamento\\Controllers\\InformacoesController.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAowBoAAAAjAAAAAAAAAA==",
+              "Title": "InformacoesService.cs",
+              "DocumentMoniker": "C:\\Users\\cacal\\Documents\\ESTUDO\\PROJETOS\\CASAMENTO-MN\\APICasamento\\APICasamento\\APICasamento\\Services\\Implementation\\InformacoesService.cs",
+              "RelativeDocumentMoniker": "APICasamento\\Services\\Implementation\\InformacoesService.cs",
+              "ToolTip": "C:\\Users\\cacal\\Documents\\ESTUDO\\PROJETOS\\CASAMENTO-MN\\APICasamento\\APICasamento\\APICasamento\\Services\\Implementation\\InformacoesService.cs",
+              "RelativeToolTip": "APICasamento\\Services\\Implementation\\InformacoesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T15:25:01.22Z",
+              "WhenOpened": "2024-12-11T21:42:32.55Z",
               "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PresenteController.cs",
-              "DocumentMoniker": "C:\\Users\\cacal\\Documents\\PROJETOS\\CASAMENTO-MN\\APICasamento\\APICasamento\\APICasamento\\Controllers\\PresenteController.cs",
-              "RelativeDocumentMoniker": "APICasamento\\Controllers\\PresenteController.cs",
-              "ToolTip": "C:\\Users\\cacal\\Documents\\PROJETOS\\CASAMENTO-MN\\APICasamento\\APICasamento\\APICasamento\\Controllers\\PresenteController.cs",
-              "RelativeToolTip": "APICasamento\\Controllers\\PresenteController.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Title": "SQLServerContext.cs",
+              "DocumentMoniker": "C:\\Users\\cacal\\Documents\\ESTUDO\\PROJETOS\\CASAMENTO-MN\\APICasamento\\APICasamento\\APICasamento\\Data\\Context\\SQLServerContext.cs",
+              "RelativeDocumentMoniker": "APICasamento\\Data\\Context\\SQLServerContext.cs",
+              "ToolTip": "C:\\Users\\cacal\\Documents\\ESTUDO\\PROJETOS\\CASAMENTO-MN\\APICasamento\\APICasamento\\APICasamento\\Data\\Context\\SQLServerContext.cs",
+              "RelativeToolTip": "APICasamento\\Data\\Context\\SQLServerContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T15:25:07.891Z",
+              "WhenOpened": "2024-12-11T21:41:32.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cacal\\Documents\\ESTUDO\\PROJETOS\\CASAMENTO-MN\\APICasamento\\APICasamento\\APICasamento\\Program.cs",
+              "RelativeDocumentMoniker": "APICasamento\\Program.cs",
+              "ToolTip": "C:\\Users\\cacal\\Documents\\ESTUDO\\PROJETOS\\CASAMENTO-MN\\APICasamento\\APICasamento\\APICasamento\\Program.cs",
+              "RelativeToolTip": "APICasamento\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T21:32:08.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Presente.cs",
+              "DocumentMoniker": "C:\\Users\\cacal\\Documents\\ESTUDO\\PROJETOS\\CASAMENTO-MN\\APICasamento\\APICasamento\\APICasamento\\Entities\\Presente.cs",
+              "RelativeDocumentMoniker": "APICasamento\\Entities\\Presente.cs",
+              "ToolTip": "C:\\Users\\cacal\\Documents\\ESTUDO\\PROJETOS\\CASAMENTO-MN\\APICasamento\\APICasamento\\APICasamento\\Entities\\Presente.cs",
+              "RelativeToolTip": "APICasamento\\Entities\\Presente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T21:26:30.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Informacoes.cs",
+              "DocumentMoniker": "C:\\Users\\cacal\\Documents\\ESTUDO\\PROJETOS\\CASAMENTO-MN\\APICasamento\\APICasamento\\APICasamento\\Entities\\Informacoes.cs",
+              "RelativeDocumentMoniker": "APICasamento\\Entities\\Informacoes.cs",
+              "ToolTip": "C:\\Users\\cacal\\Documents\\ESTUDO\\PROJETOS\\CASAMENTO-MN\\APICasamento\\APICasamento\\APICasamento\\Entities\\Informacoes.cs",
+              "RelativeToolTip": "APICasamento\\Entities\\Informacoes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T21:26:28.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IInformacoesService.cs",
+              "DocumentMoniker": "C:\\Users\\cacal\\Documents\\ESTUDO\\PROJETOS\\CASAMENTO-MN\\APICasamento\\APICasamento\\APICasamento\\Services\\Interfaces\\IInformacoesService.cs",
+              "RelativeDocumentMoniker": "APICasamento\\Services\\Interfaces\\IInformacoesService.cs",
+              "ToolTip": "C:\\Users\\cacal\\Documents\\ESTUDO\\PROJETOS\\CASAMENTO-MN\\APICasamento\\APICasamento\\APICasamento\\Services\\Interfaces\\IInformacoesService.cs",
+              "RelativeToolTip": "APICasamento\\Services\\Interfaces\\IInformacoesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T21:26:17.395Z",
               "EditorCaption": ""
             }
           ]

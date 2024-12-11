@@ -2,7 +2,7 @@
 
 namespace APICasamento.Entities
 {
-    [Table("tb_Informacoes")]
+    [Table("tb_informacoes")]
     public class Informacoes
     {
         [Column("id")]

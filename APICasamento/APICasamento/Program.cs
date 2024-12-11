@@ -18,6 +18,7 @@ builder.Services.AddDbContext<MySQLContext>(options =>
 
 // Registrando o serviço IPresenteService
 builder.Services.AddScoped<IPresenteService, PresenteService>();
+builder.Services.AddScoped<IInformacoesService, InformacoesService>();
 
 // Adicionando controllers
 builder.Services.AddControllers();

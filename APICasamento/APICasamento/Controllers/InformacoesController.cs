@@ -22,13 +22,29 @@ namespace APICasamento.Controllers
             return Ok(informacoes);
         }
         [HttpPost]
-        public async Task<IActionResult> AdicionarInformacoes([FromBody] Informacoes informacoes)
+        public async Task<IActionResult> AdicionarInformacao([FromBody] Informacoes informacoes)
         {
             if(informacoes == null){
-
+                return BadRequest();
             }
+            await _informacoesService.AdicionarAsync(informacoes);
+            return CreatedAtAction(nameof(ListarTodasInformacoes), new {id=informacoes.Id}, informacoes);
         }
         [HttpPut]
+        public async Task<IActionResult> AlteraInformacao([FromBody] Informacoes informacoes)
+        {
+            if(informacoes == null) 
+            {
+            return BadRequest();
+            }
+            await _informacoesService.AlterarAsync(informacoes);
+            return NoContent();
+        }
         [HttpDelete("{id}")]
+        public async Task<IActionResult> ExcluirInformacao(int id)
+        {
+            await _informacoesService.ExcluirAsync(id);
+            return NoContent();
+        }
     }
 }
