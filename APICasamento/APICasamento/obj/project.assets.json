@@ -8737,24 +8737,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\cacal\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\cacal\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cacal\\Documents\\ESTUDO\\PROJETOS\\APICasamento\\APICasamento\\APICasamento\\APICasamento.csproj",
+      "projectUniqueName": "C:\\Users\\cacal\\Documents\\PROJETOS\\CASAMENTO-MN\\APICasamento\\APICasamento\\APICasamento\\APICasamento.csproj",
       "projectName": "APICasamento",
-      "projectPath": "C:\\Users\\cacal\\Documents\\ESTUDO\\PROJETOS\\APICasamento\\APICasamento\\APICasamento\\APICasamento.csproj",
+      "projectPath": "C:\\Users\\cacal\\Documents\\PROJETOS\\CASAMENTO-MN\\APICasamento\\APICasamento\\APICasamento\\APICasamento.csproj",
       "packagesPath": "C:\\Users\\cacal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cacal\\Documents\\ESTUDO\\PROJETOS\\APICasamento\\APICasamento\\APICasamento\\obj\\",
+      "outputPath": "C:\\Users\\cacal\\Documents\\PROJETOS\\CASAMENTO-MN\\APICasamento\\APICasamento\\APICasamento\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
         "C:\\Users\\cacal\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8842,7 +8837,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   },
