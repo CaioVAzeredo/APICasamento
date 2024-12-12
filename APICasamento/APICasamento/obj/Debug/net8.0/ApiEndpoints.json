@@ -1,5 +1,31 @@
 [
   {
+    "ContainingType": "APICasamento.Controllers.FormularioController",
+    "Method": "ListarTodosFormularios",
+    "RelativePath": "api/Formulario",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APICasamento.Controllers.FormularioController",
+    "Method": "AdicionarFormulario",
+    "RelativePath": "api/Formulario",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "formulario",
+        "Type": "APICasamento.Entities.Formulario",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "APICasamento.Controllers.InformacoesController",
     "Method": "ListarTodasInformacoes",
     "RelativePath": "api/Informacoes",
