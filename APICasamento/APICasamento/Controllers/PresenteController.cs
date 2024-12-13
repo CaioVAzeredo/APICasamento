@@ -6,7 +6,6 @@ namespace APICasamento.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]
-
 public class PresenteController : Controller
 {
     private readonly IPresenteService _presenteService;
@@ -19,46 +18,86 @@ public class PresenteController : Controller
     [HttpGet]
     public async Task<IActionResult> ListarTodosPresentes()
     {
-        var presentes = await _presenteService.GetAllAsync();
-        return Ok(presentes);
+        try
+        {
+            var presentess = await _presenteService.GetAllAsync();
+            return Ok(presentess);
+        }
+        catch (Exception ex)
+        {
+            return StatusCode(500, new { Message = "Erro interno ao listar presentes.", Detalhes = ex.Message });
+        }
     }
+
     [HttpGet("{id}")]
     public async Task<IActionResult> ListarPorId(int id)
     {
-        var presente = await _presenteService.PesquisarPorId(id);
-
-        if(presente == null)
+        try
         {
-            return NotFound();
-        }
+            var presente = await _presenteService.PesquisarPorId(id);
 
-        return Ok(presente);
+            if (presente == null)
+            {
+                return NotFound(new { Message = $"Presente com ID {id} não encontrado." });
+            }
+
+            return Ok(presente);
+        }
+        catch (Exception ex)
+        {
+            return StatusCode(500, new { Message = "Erro interno ao buscar presente.", Detalhes = ex.Message });
+        }
     }
 
     [HttpPost]
     public async Task<IActionResult> AdicionarPresente([FromBody] Presente presente)
     {
-        if (presente == null) {
-            return BadRequest();
+        try
+        {
+            if (presente == null)
+            {
+                return BadRequest(new { Message = "Dados inválidos para o presente." });
+            }
+
+            await _presenteService.AdicionarAsync(presente);
+            return CreatedAtAction(nameof(ListarPorId), new { id = presente.Id }, presente);
         }
-        await _presenteService.AdicionarAsync(presente);
-        return CreatedAtAction(nameof(ListarTodosPresentes), new {id=presente.Id }, presente);
+        catch (Exception ex)
+        {
+            return StatusCode(500, new { Message = "Erro interno ao adicionar presente.", Detalhes = ex.Message });
+        }
     }
+
     [HttpPut]
     public async Task<IActionResult> AlterarPresente([FromBody] Presente presente)
     {
-        if (presente == null)
+        try
         {
-            return BadRequest();
+            if (presente == null)
+            {
+                return BadRequest(new { Message = "Dados inválidos para o presente." });
+            }
+
+            await _presenteService.AlterarAsync(presente);
+            return NoContent();
         }
-        await _presenteService.AlterarAsync(presente);
-        return NoContent();
+        catch (Exception ex)
+        {
+            return StatusCode(500, new { Message = "Erro interno ao alterar presente.", Detalhes = ex.Message });
+        }
     }
 
     [HttpDelete("{id}")]
     public async Task<IActionResult> ExcluirPresente(int id)
     {
-        await _presenteService.ExcluirAsync(id);
-        return NoContent();
+        try
+        {
+            await _presenteService.ExcluirAsync(id);
+            return NoContent();
+        }
+        catch (Exception ex)
+        {
+            return StatusCode(500, new { Message = "Erro interno ao excluir presente.", Detalhes = ex.Message });
+        }
     }
 }

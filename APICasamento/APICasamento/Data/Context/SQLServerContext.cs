@@ -17,7 +17,7 @@ namespace APICasamento.Data.Context
             if (!optionsBuilder.IsConfigured)
             {
                 
-                optionsBuilder.UseMySql("Server=localhost;Database=ApiCasamento;User=root;Password=sua_senha;",
+                optionsBuilder.UseMySql("Server=db-casamentomn.cnsyki4kwcga.us-east-1.rds.amazonaws.com;Database=db_casamentomn;User=admin;Password=matheusenadyr;",
                     new MySqlServerVersion(new Version(8, 0, 31)));
             }
         }

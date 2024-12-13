@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("APICasamento")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11ac494a6d5e5940af72d7f44ab6cb276da2644f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae21cb31e007a82985dae8478b473fe047546f0e")]
 [assembly: System.Reflection.AssemblyProductAttribute("APICasamento")]
 [assembly: System.Reflection.AssemblyTitleAttribute("APICasamento")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

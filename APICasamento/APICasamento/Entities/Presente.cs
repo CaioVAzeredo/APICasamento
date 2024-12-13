@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
 
 namespace APICasamento.Entities;
-[Table("tb_Presente")]
+[Table("tb_presente")]
 public class Presente
 {
     [Column("id")]
