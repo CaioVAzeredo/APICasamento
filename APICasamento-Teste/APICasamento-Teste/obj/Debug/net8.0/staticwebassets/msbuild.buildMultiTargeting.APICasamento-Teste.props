@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\APICasamento-Teste.props" />
+</Project>
