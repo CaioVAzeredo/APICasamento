@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cacal\\Documents\\ESTUDO\\PROJETOS\\CASAMENTO-MN\\APICasamento-Teste\\APICasamento-Teste\\APICasamento-Teste\\APICasamento-Teste.csproj": {}
+    "C:\\Users\\cacal\\Documents\\ESTUDO\\PROJETOS\\CASAMENTO-MN\\APICasamento\\APICasamento-Teste\\APICasamento-Teste\\APICasamento-Teste.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cacal\\Documents\\ESTUDO\\PROJETOS\\CASAMENTO-MN\\APICasamento-Teste\\APICasamento-Teste\\APICasamento-Teste\\APICasamento-Teste.csproj": {
+    "C:\\Users\\cacal\\Documents\\ESTUDO\\PROJETOS\\CASAMENTO-MN\\APICasamento\\APICasamento-Teste\\APICasamento-Teste\\APICasamento-Teste.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cacal\\Documents\\ESTUDO\\PROJETOS\\CASAMENTO-MN\\APICasamento-Teste\\APICasamento-Teste\\APICasamento-Teste\\APICasamento-Teste.csproj",
+        "projectUniqueName": "C:\\Users\\cacal\\Documents\\ESTUDO\\PROJETOS\\CASAMENTO-MN\\APICasamento\\APICasamento-Teste\\APICasamento-Teste\\APICasamento-Teste.csproj",
         "projectName": "APICasamento-Teste",
-        "projectPath": "C:\\Users\\cacal\\Documents\\ESTUDO\\PROJETOS\\CASAMENTO-MN\\APICasamento-Teste\\APICasamento-Teste\\APICasamento-Teste\\APICasamento-Teste.csproj",
+        "projectPath": "C:\\Users\\cacal\\Documents\\ESTUDO\\PROJETOS\\CASAMENTO-MN\\APICasamento\\APICasamento-Teste\\APICasamento-Teste\\APICasamento-Teste.csproj",
         "packagesPath": "C:\\Users\\cacal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cacal\\Documents\\ESTUDO\\PROJETOS\\CASAMENTO-MN\\APICasamento-Teste\\APICasamento-Teste\\APICasamento-Teste\\obj\\",
+        "outputPath": "C:\\Users\\cacal\\Documents\\ESTUDO\\PROJETOS\\CASAMENTO-MN\\APICasamento\\APICasamento-Teste\\APICasamento-Teste\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

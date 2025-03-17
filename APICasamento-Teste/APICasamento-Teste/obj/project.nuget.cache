@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pxiE8ze5zFc=",
+  "dgSpecHash": "hf03JyZKyd0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\cacal\\Documents\\ESTUDO\\PROJETOS\\CASAMENTO-MN\\APICasamento-Teste\\APICasamento-Teste\\APICasamento-Teste\\APICasamento-Teste.csproj",
+  "projectFilePath": "C:\\Users\\cacal\\Documents\\ESTUDO\\PROJETOS\\CASAMENTO-MN\\APICasamento\\APICasamento-Teste\\APICasamento-Teste\\APICasamento-Teste.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cacal\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\cacal\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
