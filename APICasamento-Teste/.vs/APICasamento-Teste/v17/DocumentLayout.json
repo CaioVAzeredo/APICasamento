@@ -11,6 +11,10 @@
       "RelativeMoniker": "D:0:0:{5833261E-BC40-43A2-B939-3D679C068A61}|APICasamento-Teste\\APICasamento-Teste.csproj|solutionrelative:apicasamento-teste\\controllers\\formulariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5833261E-BC40-43A2-B939-3D679C068A61}|APICasamento-Teste\\APICasamento-Teste.csproj|c:\\users\\cacal\\documents\\estudo\\projetos\\casamento-mn\\apicasamento\\apicasamento-teste\\apicasamento-teste\\data\\context\\sqliteservercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5833261E-BC40-43A2-B939-3D679C068A61}|APICasamento-Teste\\APICasamento-Teste.csproj|solutionrelative:apicasamento-teste\\data\\context\\sqliteservercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5833261E-BC40-43A2-B939-3D679C068A61}|APICasamento-Teste\\APICasamento-Teste.csproj|c:\\users\\cacal\\documents\\estudo\\projetos\\casamento-mn\\apicasamento\\apicasamento-teste\\apicasamento-teste\\entities\\formulario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5833261E-BC40-43A2-B939-3D679C068A61}|APICasamento-Teste\\APICasamento-Teste.csproj|solutionrelative:apicasamento-teste\\entities\\formulario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -30,8 +34,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SQLiteServerContext.cs",
+              "DocumentMoniker": "C:\\Users\\cacal\\Documents\\ESTUDO\\PROJETOS\\CASAMENTO-MN\\APICasamento\\APICasamento-Teste\\APICasamento-Teste\\Data\\Context\\SQLiteServerContext.cs",
+              "RelativeDocumentMoniker": "APICasamento-Teste\\Data\\Context\\SQLiteServerContext.cs",
+              "ToolTip": "C:\\Users\\cacal\\Documents\\ESTUDO\\PROJETOS\\CASAMENTO-MN\\APICasamento\\APICasamento-Teste\\APICasamento-Teste\\Data\\Context\\SQLiteServerContext.cs",
+              "RelativeToolTip": "APICasamento-Teste\\Data\\Context\\SQLiteServerContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T01:03:39.215Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -40,26 +57,26 @@
               "RelativeDocumentMoniker": "APICasamento-Teste\\Program.cs",
               "ToolTip": "C:\\Users\\cacal\\Documents\\ESTUDO\\PROJETOS\\CASAMENTO-MN\\APICasamento\\APICasamento-Teste\\APICasamento-Teste\\Program.cs",
               "RelativeToolTip": "APICasamento-Teste\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-14T01:15:33.232Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "IFormularioService.cs",
               "DocumentMoniker": "C:\\Users\\cacal\\Documents\\ESTUDO\\PROJETOS\\CASAMENTO-MN\\APICasamento\\APICasamento-Teste\\APICasamento-Teste\\Services\\Interfaces\\IFormularioService.cs",
               "RelativeDocumentMoniker": "APICasamento-Teste\\Services\\Interfaces\\IFormularioService.cs",
               "ToolTip": "C:\\Users\\cacal\\Documents\\ESTUDO\\PROJETOS\\CASAMENTO-MN\\APICasamento\\APICasamento-Teste\\APICasamento-Teste\\Services\\Interfaces\\IFormularioService.cs",
               "RelativeToolTip": "APICasamento-Teste\\Services\\Interfaces\\IFormularioService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-14T00:47:21.343Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "FormularioService.cs",
               "DocumentMoniker": "C:\\Users\\cacal\\Documents\\ESTUDO\\PROJETOS\\CASAMENTO-MN\\APICasamento\\APICasamento-Teste\\APICasamento-Teste\\Services\\Implementation\\FormularioService.cs",
               "RelativeDocumentMoniker": "APICasamento-Teste\\Services\\Implementation\\FormularioService.cs",
@@ -71,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Formulario.cs",
               "DocumentMoniker": "C:\\Users\\cacal\\Documents\\ESTUDO\\PROJETOS\\CASAMENTO-MN\\APICasamento\\APICasamento-Teste\\APICasamento-Teste\\Entities\\Formulario.cs",
               "RelativeDocumentMoniker": "APICasamento-Teste\\Entities\\Formulario.cs",
@@ -89,9 +106,10 @@
               "RelativeDocumentMoniker": "APICasamento-Teste\\Controllers\\FormularioController.cs",
               "ToolTip": "C:\\Users\\cacal\\Documents\\ESTUDO\\PROJETOS\\CASAMENTO-MN\\APICasamento\\APICasamento-Teste\\APICasamento-Teste\\Controllers\\FormularioController.cs",
               "RelativeToolTip": "APICasamento-Teste\\Controllers\\FormularioController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T00:44:18.421Z"
+              "WhenOpened": "2025-03-14T00:44:18.421Z",
+              "EditorCaption": ""
             }
           ]
         }

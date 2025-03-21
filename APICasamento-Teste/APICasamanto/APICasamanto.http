@@ -1,0 +1,6 @@
+@APICasamanto_HostAddress = http://localhost:5173
+
+GET {{APICasamanto_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
