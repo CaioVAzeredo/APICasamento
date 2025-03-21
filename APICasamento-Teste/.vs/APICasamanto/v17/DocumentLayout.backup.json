@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cacal\\Documents\\ESTUDO\\PROJETOS\\CASAMENTO-MN\\APICasamento\\APICasamento-Teste\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B0CF4C8-2C0A-4D32-9C4F-25642C34D76D}|APICasamanto\\APICasamanto.csproj|c:\\users\\cacal\\documents\\estudo\\projetos\\casamento-mn\\apicasamento\\apicasamento-teste\\apicasamanto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9B0CF4C8-2C0A-4D32-9C4F-25642C34D76D}|APICasamanto\\APICasamanto.csproj|solutionrelative:apicasamanto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B0CF4C8-2C0A-4D32-9C4F-25642C34D76D}|APICasamanto\\APICasamanto.csproj|c:\\users\\cacal\\documents\\estudo\\projetos\\casamento-mn\\apicasamento\\apicasamento-teste\\apicasamanto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B0CF4C8-2C0A-4D32-9C4F-25642C34D76D}|APICasamanto\\APICasamanto.csproj|solutionrelative:apicasamanto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B0CF4C8-2C0A-4D32-9C4F-25642C34D76D}|APICasamanto\\APICasamanto.csproj|c:\\users\\cacal\\documents\\estudo\\projetos\\casamento-mn\\apicasamento\\apicasamento-teste\\apicasamanto\\data\\context\\sqlservercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B0CF4C8-2C0A-4D32-9C4F-25642C34D76D}|APICasamanto\\APICasamanto.csproj|solutionrelative:apicasamanto\\data\\context\\sqlservercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B0CF4C8-2C0A-4D32-9C4F-25642C34D76D}|APICasamanto\\APICasamanto.csproj|c:\\users\\cacal\\documents\\estudo\\projetos\\casamento-mn\\apicasamento\\apicasamento-teste\\apicasamanto\\services\\implementation\\formularioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B0CF4C8-2C0A-4D32-9C4F-25642C34D76D}|APICasamanto\\APICasamanto.csproj|solutionrelative:apicasamanto\\services\\implementation\\formularioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B0CF4C8-2C0A-4D32-9C4F-25642C34D76D}|APICasamanto\\APICasamanto.csproj|c:\\users\\cacal\\documents\\estudo\\projetos\\casamento-mn\\apicasamento\\apicasamento-teste\\apicasamanto\\entities\\formulario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B0CF4C8-2C0A-4D32-9C4F-25642C34D76D}|APICasamanto\\APICasamanto.csproj|solutionrelative:apicasamanto\\entities\\formulario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormularioService.cs",
+              "DocumentMoniker": "C:\\Users\\cacal\\Documents\\ESTUDO\\PROJETOS\\CASAMENTO-MN\\APICasamento\\APICasamento-Teste\\APICasamanto\\Services\\Implementation\\FormularioService.cs",
+              "RelativeDocumentMoniker": "APICasamanto\\Services\\Implementation\\FormularioService.cs",
+              "ToolTip": "C:\\Users\\cacal\\Documents\\ESTUDO\\PROJETOS\\CASAMENTO-MN\\APICasamento\\APICasamento-Teste\\APICasamanto\\Services\\Implementation\\FormularioService.cs",
+              "RelativeToolTip": "APICasamanto\\Services\\Implementation\\FormularioService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T04:04:44.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SQLServerContext.cs",
+              "DocumentMoniker": "C:\\Users\\cacal\\Documents\\ESTUDO\\PROJETOS\\CASAMENTO-MN\\APICasamento\\APICasamento-Teste\\APICasamanto\\Data\\Context\\SQLServerContext.cs",
+              "RelativeDocumentMoniker": "APICasamanto\\Data\\Context\\SQLServerContext.cs",
+              "ToolTip": "C:\\Users\\cacal\\Documents\\ESTUDO\\PROJETOS\\CASAMENTO-MN\\APICasamento\\APICasamento-Teste\\APICasamanto\\Data\\Context\\SQLServerContext.cs",
+              "RelativeToolTip": "APICasamanto\\Data\\Context\\SQLServerContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T04:03:56.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cacal\\Documents\\ESTUDO\\PROJETOS\\CASAMENTO-MN\\APICasamento\\APICasamento-Teste\\APICasamanto\\Program.cs",
+              "RelativeDocumentMoniker": "APICasamanto\\Program.cs",
+              "ToolTip": "C:\\Users\\cacal\\Documents\\ESTUDO\\PROJETOS\\CASAMENTO-MN\\APICasamento\\APICasamento-Teste\\APICasamanto\\Program.cs",
+              "RelativeToolTip": "APICasamanto\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T04:02:36.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\cacal\\Documents\\ESTUDO\\PROJETOS\\CASAMENTO-MN\\APICasamento\\APICasamento-Teste\\APICasamanto\\appsettings.json",
+              "RelativeDocumentMoniker": "APICasamanto\\appsettings.json",
+              "ToolTip": "C:\\Users\\cacal\\Documents\\ESTUDO\\PROJETOS\\CASAMENTO-MN\\APICasamento\\APICasamento-Teste\\APICasamanto\\appsettings.json*",
+              "RelativeToolTip": "APICasamanto\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-21T03:55:43.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Formulario.cs",
+              "DocumentMoniker": "C:\\Users\\cacal\\Documents\\ESTUDO\\PROJETOS\\CASAMENTO-MN\\APICasamento\\APICasamento-Teste\\APICasamanto\\Entities\\Formulario.cs",
+              "RelativeDocumentMoniker": "APICasamanto\\Entities\\Formulario.cs",
+              "ToolTip": "C:\\Users\\cacal\\Documents\\ESTUDO\\PROJETOS\\CASAMENTO-MN\\APICasamento\\APICasamento-Teste\\APICasamanto\\Entities\\Formulario.cs",
+              "RelativeToolTip": "APICasamanto\\Entities\\Formulario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T03:50:07.109Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

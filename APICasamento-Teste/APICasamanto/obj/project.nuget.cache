@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tpmKj2aQktY=",
+  "dgSpecHash": "bhy8Yv9UhXI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\cacal\\Documents\\ESTUDO\\PROJETOS\\CASAMENTO-MN\\APICasamento\\APICasamento-Novo\\APICasamanto\\APICasamanto\\APICasamanto.csproj",
+  "projectFilePath": "C:\\Users\\cacal\\Documents\\ESTUDO\\PROJETOS\\CASAMENTO-MN\\APICasamento\\APICasamento-Teste\\APICasamanto\\APICasamanto.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cacal\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\cacal\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

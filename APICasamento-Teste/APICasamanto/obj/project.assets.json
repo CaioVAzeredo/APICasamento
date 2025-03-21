@@ -4515,11 +4515,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cacal\\Documents\\ESTUDO\\PROJETOS\\CASAMENTO-MN\\APICasamento\\APICasamento-Novo\\APICasamanto\\APICasamanto\\APICasamanto.csproj",
+      "projectUniqueName": "C:\\Users\\cacal\\Documents\\ESTUDO\\PROJETOS\\CASAMENTO-MN\\APICasamento\\APICasamento-Teste\\APICasamanto\\APICasamanto.csproj",
       "projectName": "APICasamanto",
-      "projectPath": "C:\\Users\\cacal\\Documents\\ESTUDO\\PROJETOS\\CASAMENTO-MN\\APICasamento\\APICasamento-Novo\\APICasamanto\\APICasamanto\\APICasamanto.csproj",
+      "projectPath": "C:\\Users\\cacal\\Documents\\ESTUDO\\PROJETOS\\CASAMENTO-MN\\APICasamento\\APICasamento-Teste\\APICasamanto\\APICasamanto.csproj",
       "packagesPath": "C:\\Users\\cacal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cacal\\Documents\\ESTUDO\\PROJETOS\\CASAMENTO-MN\\APICasamento\\APICasamento-Novo\\APICasamanto\\APICasamanto\\obj\\",
+      "outputPath": "C:\\Users\\cacal\\Documents\\ESTUDO\\PROJETOS\\CASAMENTO-MN\\APICasamento\\APICasamento-Teste\\APICasamanto\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("APICasamanto")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78a09e3f9aea3448a59d0e57e56ea06f9e96ee6b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51b9adb2abf86bb563a37558856c169b866e16ad")]
 [assembly: System.Reflection.AssemblyProductAttribute("APICasamanto")]
 [assembly: System.Reflection.AssemblyTitleAttribute("APICasamanto")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
